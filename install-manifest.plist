@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://xinhui2017.oss-cn-hangzhou.aliyuncs.com/img/637115723945167236_ios_id_256x256.png</string>
+					<string>https://xinhui2017.oss-cn-hangzhou.aliyuncs.com/appPackages/com.tengen.QYCRMInHouse.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://xinhui2017.oss-cn-hangzhou.aliyuncs.com/img/637115723945167236_ios_id_256x256.png</string>
+					<string>https://xinhui2017.oss-cn-hangzhou.aliyuncs.com/appPackages/com.tengen.QYCRMInHouse.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
